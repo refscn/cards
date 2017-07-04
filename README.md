@@ -4,3 +4,7 @@
 >
 > ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0001-design-patterns-preview.png)
 
+### QRC0002 Mac 键盘快捷键
+- [下载 qrc0002-mac-keyboard-shortcuts.pdf](https://github.com/refscn/cards/raw/master/qrc0002-mac-keyboard-shortcuts.pdf "下载 Mac 键盘快捷键参考卡片")
+>
+> ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0002-mac-keyboard-shortcuts-preview.png)
