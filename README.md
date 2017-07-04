@@ -8,3 +8,8 @@
 - [下载 qrc0002-mac-keyboard-shortcuts.pdf](https://github.com/refscn/cards/raw/master/qrc0002-mac-keyboard-shortcuts.pdf "下载 Mac 键盘快捷键参考卡片")
 >
 > ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0002-mac-keyboard-shortcuts-preview.png)
+
+### QRC0003 商业模式
+- [下载 qrc0003-business-model.pdf](https://github.com/refscn/cards/raw/master/qrc0003-business-model.pdf "下载商业模式参考卡片")
+>
+> ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0003-business-model-preview.png)
