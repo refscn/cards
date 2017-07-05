@@ -13,3 +13,5 @@
 - [下载 qrc0003-business-model.pdf](https://github.com/refscn/cards/raw/master/qrc0003-business-model.pdf "下载商业模式参考卡片")
 >
 > ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0003-business-model-preview.png)
+附1：商业模式画布
+- [下载 qrc0003a1-bm-canvas.pdf](https://github.com/refscn/cards/raw/master/qrc0003a1-bm-canvas.pdf "下载附1：商业模式画布")
